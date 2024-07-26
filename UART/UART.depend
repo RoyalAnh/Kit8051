@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721029013 source:c:\kit8051\uart\main.c
+	<mcs51/8052.h>
+	<stdio.h>
+

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1720426035 source:c:\kit8051\timer\main.c
+	<mcs51/8052.h>
+
